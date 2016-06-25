@@ -1,0 +1,9 @@
+
+
+<resources>
+    <string-array name="sort_array">
+        <item>None</item>
+        <item>Newest</item>
+        <item>Oldest</item>
+    </string-array>
+</resources>
